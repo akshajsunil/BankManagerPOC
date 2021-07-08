@@ -1,2 +1,2 @@
 # BankManagerPOC
-A PHP website to digitilze a working of a bank.
+A PHP website to manage database of employees , loans, accounts of a bank.
